@@ -1,0 +1,12 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+html, body{
+	font-size: 16px;
+	font-family: sans-serif;
+}
+footer{
+	font-size:12pt;
+}
