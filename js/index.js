@@ -8,12 +8,7 @@ function saludo(){
 	return "hola mundo xxx";
 }
 
-<<<<<<< HEAD
-=======
-
-
-
 function fnNueva( value ){
 	if( 3 >= value ) return value;
 }
->>>>>>> js
+
