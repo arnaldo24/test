@@ -4,3 +4,10 @@ console.log("Hola mundo")
 function saludo(){
 	return "hola mundo xxx";
 }
+
+
+
+
+function fnNueva( value ){
+	if( 3 >= value ) return value;
+}
